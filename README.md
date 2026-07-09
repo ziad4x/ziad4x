@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ziad4x&color=818CF8&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
@@ -31,6 +35,7 @@ Full-Stack Developer focused on building clean, scalable web applications — fr
 - ⚡ Comfortable across the whole stack: React/Next.js on the frontend, Node.js/Express.js on the backend
 - 🏗️ Enjoy architecting well-structured, maintainable systems
 - 🎯 Care about clean code, reusable components, and type safety
+- 🌱 Currently exploring: system design & performance at scale
 - 🔄 Always learning, always shipping
 
 </td>
@@ -39,9 +44,11 @@ Full-Stack Developer focused on building clean, scalable web applications — fr
 ```ts
 const dev: FullStackDev = {
   role: "Full-Stack Developer",
+  location: "Egypt 🇪🇬",
   frontend: ["React", "Next.js", "TypeScript"],
   backend: ["Node.js", "Express.js", "MongoDB"],
   mindset: "clean code, scalable systems",
+  funFact: "ships side-projects on weekends",
 };
 ```
 
@@ -63,13 +70,33 @@ const dev: FullStackDev = {
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,redis&theme=dark" />
 
 <br/><br/>
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,postman,vscode,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<br/>
+
+## 🌱 Currently Exploring
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System_Design-818CF8?style=for-the-badge&labelColor=1E1E2E)
+![Microservices](https://img.shields.io/badge/Microservices-F472B6?style=for-the-badge&labelColor=1E1E2E)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-34D399?style=for-the-badge&labelColor=1E1E2E)
+![Cloud (AWS)](https://img.shields.io/badge/Cloud_(AWS)-FBBF24?style=for-the-badge&labelColor=1E1E2E)
+
+<br/>
+
+<a href="https://github.com/ziad4x?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse_All_Repositories-1E1E2E?style=for-the-badge&logo=github&logoColor=818CF8" />
+</a>
 
 </div>
 
@@ -94,11 +121,16 @@ const dev: FullStackDev = {
 
 <div align="center">
 
+I'm always open to interesting conversations, collaborations, or a good code review debate.
+
 <a href="https://linkedin.com/in/ziad-amr">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-818CF8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zeyad2011am@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-F472B6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ziad4x">
+  <img src="https://img.shields.io/badge/GitHub-Follow-34D399?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
