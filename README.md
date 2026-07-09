@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%3E+Loading+player+profile...;%3E+Class%3A+Frontend+Developer;%3E+Main+Weapon%3A+React.js+%2B+TypeScript;%3E+Status%3A+Ready+for+next+quest+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziad4x&color=F72585&style=for-the-badge&label=TIMES+PROFILE+RENDERED)
+<img src="https://img.shields.io/badge/PLAYER%20VIEWS-tracked_live-7209B7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=ziad4x&color=7209B7&style=for-the-badge&label=RENDERS" />
 
 </div>
 
@@ -16,25 +17,27 @@
 
 | 🧙 Class | 📍 Spawn Point | ⭐ Level | 🏫 Guild |
 |:---:|:---:|:---:|:---:|
-| Software Engineer / Frontend Dev | Cairo, Egypt 🇪🇬 | 02 *(2+ yrs grinding)* | B.Sc. CS & AI — Helwan University |
+| Software Engineer / Frontend Dev | Cairo, Egypt 🇪🇬 | 02 · *2+ yrs grinding* | B.Sc. CS & AI — Helwan University |
 
-**🎯 Main Quest:** Ship clean, scalable, pixel-perfect UI
-**📡 Contact Frequency:** zeyad2011am@gmail.com
+🎯 **Main Quest:** Ship clean, scalable, pixel-perfect UI
+📡 **Contact Frequency:** `zeyad2011am@gmail.com`
 
 </div>
 
 <br/>
 
-## 📈 XP BAR — Core Stats
+## 📊 XP BAR — Core Stats
 
-```
-Performance Engineering  ████████████████████░░  90%
-SEO Optimization         ███████████████████████ 100%
-React / Next.js          ██████████████████████░  95%
-TypeScript                █████████████████████░  92%
-UI/UX Precision           ████████████████████░░  88%
-Backend (Node/Express)    ████████████████░░░░░░  70%
-```
+<div align="center">
+
+![Performance](https://img.shields.io/badge/Performance_Engineering-90%25-F72585?style=for-the-badge&labelColor=0D1117)
+![SEO](https://img.shields.io/badge/SEO_Optimization-100%25-4CC9F0?style=for-the-badge&labelColor=0D1117)
+![React](https://img.shields.io/badge/React_%2F_Next.js-95%25-FFD60A?style=for-the-badge&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-92%25-7209B7?style=for-the-badge&labelColor=0D1117)
+![UI](https://img.shields.io/badge/UI%2FUX_Precision-88%25-F72585?style=for-the-badge&labelColor=0D1117)
+![Backend](https://img.shields.io/badge/Backend_(Node%2FExpress)-70%25-4CC9F0?style=for-the-badge&labelColor=0D1117)
+
+</div>
 
 <br/>
 
@@ -46,13 +49,19 @@ Backend (Node/Express)    ████████████████░░
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
 
+<br/>
+
 **🛡️ Armor & Buffs**
 
 <img src="https://skillicons.dev/icons?i=redux,tailwind,sass,vite&theme=dark" />
 
-**🧪 Support Items (Backend)**
+<br/>
+
+**🧪 Support Items — Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+<br/>
 
 **🔧 Crafting Tools**
 
@@ -66,13 +75,13 @@ Backend (Node/Express)    ████████████████░░
 
 <div align="center">
 
-| Perk | Effect |
-|---|---|
-| ⚡ **Speed Demon** | Optimizes Core Web Vitals until Lighthouse begs for mercy (90+ scores, consistently) |
-| 🏗️ **Architect** | Builds enterprise-scale dashboards that don't collapse under their own weight |
-| 🧩 **Full-Stack Curious** | Dives from React components down into Node.js APIs without fear |
-| 🎯 **Clean Coder** | Allergic to spaghetti code, type-safety enthusiast |
-| 🤝 **Team Player** | Thrives in Agile parties, ships features on schedule |
+![Speed Demon](https://img.shields.io/badge/⚡_Speed_Demon-Core_Web_Vitals_Mastery-F72585?style=for-the-badge&labelColor=0D1117)
+![Architect](https://img.shields.io/badge/🏗️_Architect-Enterprise_Scale_Dashboards-4CC9F0?style=for-the-badge&labelColor=0D1117)
+
+![Full Stack](https://img.shields.io/badge/🧩_Full--Stack_Curious-React_to_Node.js-FFD60A?style=for-the-badge&labelColor=0D1117)
+![Clean Coder](https://img.shields.io/badge/🎯_Clean_Coder-Type--Safety_Enthusiast-7209B7?style=for-the-badge&labelColor=0D1117)
+
+![Team Player](https://img.shields.io/badge/🤝_Team_Player-Agile_Party_Member-F72585?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -91,11 +100,10 @@ Backend (Node/Express)    ████████████████░░
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ziad4x&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziad4x&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=F72585" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=ziad4x&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=F72585" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad4x&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=ffffff" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziad4x&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=4CC9F0&point=ffffff" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziad4x&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=4CC9F0&point=ffffff" width="48%" />
 
 </div>
 
@@ -106,13 +114,13 @@ Backend (Node/Express)    ████████████████░░
 ## 🕹️ MULTIPLAYER — Join the Party
 
 <a href="https://linkedin.com/in/ziad-amr">
-  <img src="https://img.shields.io/badge/LinkedIn-Send_Invite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Send_Invite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="mailto:zeyad2011am@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Open_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Open_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://github.com/ziad4x">
-  <img src="https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
 
 <br/><br/>
