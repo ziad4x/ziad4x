@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ziad-amr">
+<a href="https://www.linkedin.com/in/ziad-amr-b86513253">
   <img src="https://img.shields.io/badge/LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ziad4x">
@@ -123,7 +123,7 @@ const dev: FullStackDev = {
 
 I'm always open to interesting conversations, collaborations, or a good code review debate.
 
-<a href="https://linkedin.com/in/ziad-amr">
+<a href="https://www.linkedin.com/in/ziad-amr-b86513253">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-818CF8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zeyad2011am@gmail.com">
